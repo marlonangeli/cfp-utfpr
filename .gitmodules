@@ -1,0 +1,3 @@
+[submodule "utcapacita"]
+	path = utcapacita
+	url = https://github.com/ricardosobjak/utcapacita.git
